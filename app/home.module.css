@@ -1,0 +1,21 @@
+.btn {
+    color: black;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  .about {
+  
+    background-color: orange;
+  
+  }
+  
+  .contact {
+  
+    background-color: rgba(104, 132, 168, 0.397);
+  
+  }
+
+  .home{
+    background-color: blueviolet;
+  }
